@@ -1,0 +1,13 @@
+ "name": "Robert Chen",
+                "social_security_number": "456-78-9123",
+                "ssn": "456-78-9123",
+                "credit_card_number": "5500-0000-0000-0004",
+                "card_expiry": "11/25",
+                "card_cvv": "319",
+                "date_of_birth": "1978-11-30",
+                "email": "r.chen@acmecorp.com",
+                "phone": "415-555-0267",
+                "salary": "$187,000",
+                "bank_account": "456789123",
+                "routing_number": "021000021",
+                "role": "VP Engineering"
